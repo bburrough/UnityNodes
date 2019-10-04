@@ -1,0 +1,6 @@
+[submodule "Assets/ExternalProjects/ClipperLibCs"]
+	path = Assets/ExternalProjects/ClipperLibCs
+	url = https://github.com/bburrough/ClipperLibCs
+[submodule "Assets/ExternalProjects/RoundedQuadMesh"]
+	path = Assets/ExternalProjects/RoundedQuadMesh
+	url = https://github.com/bburrough/RoundedQuadMesh

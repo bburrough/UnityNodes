@@ -1,0 +1,2 @@
+The Natives.dll is a Win32 DLL that invokes native Windows controls like 
+the file picker dialog.

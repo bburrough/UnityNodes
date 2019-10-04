@@ -1,0 +1,2 @@
+The pthreadVC2.dll is an implementation of POSIX threads for Win32. It 
+is included in this project to satisfy a dependency of Natives.dll.
